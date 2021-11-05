@@ -1,0 +1,160 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "song_name": "Gurenge",
+      "song_duration": "03:32",
+      "date_added": "2020-09-05",
+      "song_image": {
+        "rawFile": {
+          "path": "luoon.png"
+        },
+        "src": "blob:http://localhost:3000/f11e3756-fe24-4401-97fc-961eb5914084",
+        "title": "luoon.png"
+      },
+      "stream_count": "51313167",
+      "files": {
+        "rawFile": {
+          "path": "Gurenge - LiSA.mp3"
+        },
+        "src": "blob:http://localhost:3000/e645aab7-7d75-42b1-af8d-949240e77319",
+        "title": "Gurenge - LiSA.mp3"
+      }
+    },
+    {
+      "id": "2",
+      "song_name": "Kyoukaisen",
+      "song_duration": "03:50",
+      "date_added": "2020-10-10",
+      "song_image": {
+        "rawFile": {
+          "path": "heheboy.jpg"
+        },
+        "src": "blob:http://localhost:3000/96860eae-df14-4b26-83b9-6dd02825516b",
+        "title": "heheboy.jpg"
+      },
+      "stream_count": "474316",
+      "files": {
+        "rawFile": {
+          "path": "Kyoukaisen - amazarashi.mp3"
+        },
+        "path": "blob:http://localhost:3000/16b15f90-790d-491e-b110-ddfaad333e93",
+        "title": "Kyoukaisen - amazarashi.mp3"
+      }
+    },
+    {
+      "id": "3",
+      "song_name": "Kaikai Kitan",
+      "song_duration": "04:32",
+      "date_added": "2020-10-01",
+      "song_image": {
+        "rawFile": {
+          "path": "ban.jpg"
+        },
+        "src": "blob:http://localhost:3000/f6ebc8e0-a2a9-4d51-985f-5327f283e851",
+        "title": "ban.jpg"
+      },
+      "stream_count": "45531316",
+      "files": {
+        "rawFile": {
+          "path": "Kaikai Kitan - Eve.mp3"
+        },
+        "path": "blob:http://localhost:3000/5f57b88b-2eb2-4e6a-951a-b4742c2b9eca",
+        "title": "Kaikai Kitan - Eve.mp3"
+      }
+    },
+    {
+      "song_name": "Cinderella",
+      "files": {
+        "rawFile": {
+          "path": "Cinderella - Cidergirl.mp3"
+        },
+        "src": "blob:http://localhost:3000/65559f39-4e48-40cd-b785-ad5888b5fc41",
+        "title": "Cinderella - Cidergirl.mp3"
+      },
+      "song_image": {
+        "rawFile": {
+          "path": "aot punch.jpg"
+        },
+        "src": "blob:http://localhost:3000/889165b4-b836-4b31-87f8-dcf4dafe99ee",
+        "title": "aot punch.jpg"
+      },
+      "song_duration": "3:32",
+      "date_added": "2021-11-04",
+      "id": "NyrveHZ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "user-name": "Peter Nu",
+      "email": "Teo84411@gmail.com",
+      "sex": "male",
+      "age": "2001-05-01",
+      "account-name": "damvinhhung",
+      "password": "laudaitinhai",
+      "role": "administrator"
+    },
+    {
+      "id": "2",
+      "user-name": "Jack the horny",
+      "email": "Killerace@gmail.com",
+      "sex": "male",
+      "age": "06/26/2000",
+      "account-name": "meovinhhung",
+      "password": "xuongcatinhai",
+      "role": "manager"
+    },
+    {
+      "user-name": "chó",
+      "email": "chocon@gmail.com",
+      "id": "Yn207_9",
+      "sex": "female",
+      "age": "11/01/2005",
+      "account-name": "chovinhhung",
+      "password": "conchotinhai",
+      "role": "member"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "PL0001",
+      "playlist_name": "Yua Mikami",
+      "playlist_duration": "1000",
+      "owner_user_id": "null",
+      "files": {
+        "rawFile": {
+          "path": "cat.jpg"
+        },
+        "src": "blob:http://localhost:3000/5527c32c-5cce-4335-bc08-f48abbb7eb3a",
+        "title": "cat.jpg"
+      }
+    },
+    {
+      "id": "PL0002",
+      "playlist_name": "Yui Hatano",
+      "playlist_duration": "1000",
+      "owner_user_id": "null",
+      "files": {
+        "rawFile": {
+          "path": "ranh con.jpg"
+        },
+        "src": "blob:http://localhost:3000/14bcca44-cd26-4def-9f68-c39382e3758d",
+        "title": "ranh con.jpg"
+      }
+    },
+    {
+      "id": "PL0003",
+      "playlist_name": "Peter Tèo",
+      "playlist_duration": "1000",
+      "owner_user_id": "null",
+      "files": {
+        "rawFile": {
+          "path": "chó giang hồ.png"
+        },
+        "src": "blob:http://localhost:3000/41e8b7ca-50a8-42dc-b415-0361c8f7d10a",
+        "title": "chó giang hồ.png"
+      }
+    }
+  ]
+}
