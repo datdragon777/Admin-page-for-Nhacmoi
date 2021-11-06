@@ -8,9 +8,10 @@ import UserList from './components/Users/UserList'
 import UserCreate from './components/Users/UserCreate'
 import UserEdit from './components/Users/UserEdit'
 import PlaylistList from './components/playlists/PlaylistList'
-import PlaylistEdit from './components/playlists/PlaylistEdit'
 import PlaylistCreate from './components/playlists/PlaylistCreate'
+import PlaylistEdit from './components/playlists/PlaylistEdit'
 import { createMuiTheme } from '@material-ui/core/styles';
+
 
 const theme = createMuiTheme({
   palette: {
